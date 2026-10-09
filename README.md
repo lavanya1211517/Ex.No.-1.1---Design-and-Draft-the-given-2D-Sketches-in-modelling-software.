@@ -42,8 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-<img width="1494" height="1053" alt="Monochrome Mechanical Engineering Drawing" src="https://github.com/user-attachments/assets/f314af71-2fda-4a2c-9e04-720a31c08913" />
-
+<img width="1271" height="900" alt="image" src="https://github.com/user-attachments/assets/25b29f5d-24ae-472a-a4d6-56e8dfc36191" />
 
 
 ## RESULT
